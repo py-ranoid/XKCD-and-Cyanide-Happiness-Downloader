@@ -14,11 +14,11 @@ Options | Help
 
 ###Example 
 To download all xkcd comics till date
-> python -c xkcd
+> python webcomic.py -c xkcd
 
 To download all Cyanide and Happiness comics between 1000 and 2000
-> python -c CnH -b 1000 -e 2000
+> python webcomic.py -c CnH -b 1000 -e 2000
 
 To download all Cyanide and Happiness comics from 3000 till date and store in /home/MyComputer/WebComics.
-> python -c CnH -b 3000 -p /home/MyComputer/WebComics
+> python webcomic.py -c CnH -b 3000 -p /home/MyComputer/WebComics
   
