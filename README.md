@@ -3,7 +3,7 @@
 
 ###Requirements
 * Python 2.7
-* bs4 ((Beautiful Soup library)[https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup])
+* bs4 ([Beautiful Soup library](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup))
 
 Options | Help
 --------|-----------
